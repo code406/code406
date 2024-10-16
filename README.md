@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-This account has been renamed and is no longer active under the username `code406`.
+I renamed my account from @code406 to @david-palomo!!.
 
 ### You can find my current profile here:
 
