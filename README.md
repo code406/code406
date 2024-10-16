@@ -1,4 +1,4 @@
-### Hi there! 👋
+## Hi there! 👋
 
 I renamed my Github account from `code406` to [`david-palomo`](https://github.com/david-palomo).
 
