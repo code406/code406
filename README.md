@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I renamed my account from `code406` to [`david-palomo`](https://github.com/david-palomo).
+I renamed my Github account from `code406` to [`david-palomo`](https://github.com/david-palomo).
 
 ### You can find my current profile here:
 
